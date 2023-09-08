@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2013\Projects\KB_Activity2ITPC316LA\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\student\documents\visual studio 2013\Projects\KB_Activity2ITPC316LA\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\student\documents\visual studio 2013\Projects\KB_Activity2ITPC316LA\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\KB_Activity2ITPC316LA\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\student\documents\visual studio 2013\Projects\KB_Activity2ITPC316LA\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\8th Gen\Downloads\KB_ACTIVITY2ITPC315LA\KB_Activity2ITPC316LA\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\8th Gen\Downloads\KB_ACTIVITY2ITPC315LA\KB_Activity2ITPC316LA\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\8th Gen\Downloads\KB_ACTIVITY2ITPC315LA\KB_Activity2ITPC316LA\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\8th Gen\Downloads\KB_ACTIVITY2ITPC315LA\KB_Activity2ITPC316LA\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\8th Gen\Downloads\KB_ACTIVITY2ITPC315LA\KB_Activity2ITPC316LA\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
